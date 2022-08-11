@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python infer.py -c saved/models/DDRNet23SLim/V2/config.json -r saved/models/DDRNet23SLim/V2/checkpoint-epoch510.pth --name abc
