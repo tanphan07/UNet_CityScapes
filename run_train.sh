@@ -1,1 +1,1 @@
-CUDA_VISIBLE_DEVICES=0 python train.py -c config.json --name DiceLoss_475 --lr 0.01 --bs 6
+CUDA_VISIBLE_DEVICES=2 python train.py -c config.json --name DiceLoss_475_v2 --lr 0.01 --bs 6

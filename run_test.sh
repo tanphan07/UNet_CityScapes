@@ -1,1 +1,1 @@
-CUDA_VISIBLE_DEVICES=0 python evaluation.py -c saved/models/HardNet/V1/config.json -r saved/models/HardNet/V1/checkpoint-epoch990.pth --name test
+CUDA_VISIBLE_DEVICES=1 python evaluation.py -c saved/models/UNet/DiceLoss_475_v2/config.json -r saved/models/UNet/DiceLoss_475_v2/checkpoint-epoch480.pth --name Unet_Test
