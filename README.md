@@ -62,3 +62,6 @@ CityScapes
          |-- train
          |-- val
 ```
+## Checkpoint Model 
+Checkpoint model is saved in `saved/models/UNet/DiceLoss_475_v2/checkpoint-epoch480.pth`
+You can download checkpoint from here [Google Drive](https://drive.google.com/drive/folders/1AS426CxtC2hUTAskOkO8S3joImv6bp5C?usp=sharing) and put it to the repository.
